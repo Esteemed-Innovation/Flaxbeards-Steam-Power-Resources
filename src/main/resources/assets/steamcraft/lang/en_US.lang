@@ -9,7 +9,7 @@ potion.partialInvisible=Cloaking
 steamcraft.canned=Canistered
 steamcraft.rocket=Rocket Type:
 
-steamcraft.plate.bonus=Exosuit Effect: 
+steamcraft.plate.bonus=Exosuit Effect:
 steamcraft.plate.copper=Blast Protection
 steamcraft.plate.brass=Fire Protection
 steamcraft.plate.iron=Projectile Protection
@@ -500,6 +500,7 @@ item.steamcraft:steamedBeef.name=Steamed Beef
 item.steamcraft:steamedFish.name=Steamed Fish
 item.steamcraft:steamedPorkchop.name=Steamed Porkchop
 item.steamcraft:steamedImphide.name=Steamed Imphide
+item.steamcraft:steamedSalmon.name=Steamed Salmon
 
 item.toolHead.headAxeBrass.name=Brass Axe Head
 item.toolHead.headPickaxeBrass.name=Brass Pickaxe Head
@@ -545,6 +546,3 @@ tile.steamcraft:fan.name=Fan
 tile.steamcraft:vacuum.name=Vacuum
 tile.steamcraft:horn.name=Steam Whistle
 tile.steamcraft:fluidSteamConverter.name=Pressure Converter
-
-
-
