@@ -59,6 +59,9 @@ steamcraft.exosuit.flyTick=consumed per flying tick
 steamcraft.exosuit.shroud=Shrouded
 steamcraft.exosuit.level=Level
 
+key.monocle.desc=Zoom using monocle
+key.flaxbeard.category=Flaxbeard's Steam Power
+
 category.RecentCreations.name=Recent Creations
 
 category.Basics.name=Basics
