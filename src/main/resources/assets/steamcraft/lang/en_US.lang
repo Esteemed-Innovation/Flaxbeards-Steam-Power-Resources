@@ -205,8 +205,8 @@ research.PlateVibrant.name=Vibrant Plate
 research.PlateVibrant.0=Although I'm still not entirely sure how it works, I've been able to harness the mysterious ender properties of vibrant alloy for use in my exosuit. When I reach low health, I have a chance to dodge damage and teleport away.
 research.PlateEnderium.name=Enderium Plate
 research.PlateEnderium.0=Plating my exosuit with this mysterious ender metal has allowed me to harness the teleporting power of endermen as a weapon. Enemies that attack me while I wear an enderium plated exosuit have a chance to be teleported away from me.
-research.PlateGildedIron.name=Gilded Iron Plate
-research.PlateGildedIron.0=Combining iron plates dipped in gold seems to combine the effects of these metals, increasing my protection from projectiles and the experience I gain; however these aspects are slightly weaker than the plates fully made of those metals.
+research.PlateGilded.name=Gilded Iron Plate
+research.PlateGilded.0=Combining iron plates dipped in gold seems to combine the effects of these metals, increasing my protection from projectiles and the experience I gain; however these aspects are slightly weaker than the plates fully made of those metals.
 
 research.ExoVanity.name=Vanity Slot
 research.ExoVanity.0=Not only is my exosuit a versatile framework, it is also a customizable one. Each exosuit piece includes a vanity slot that can be used to adjust the appearance of the exosuit to my liking, using various vanity upgrades.
