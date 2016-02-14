@@ -59,6 +59,9 @@ steamcraft.exosuit.flyTick=每tick飞行消耗
 steamcraft.exosuit.shroud=末影之幕
 steamcraft.exosuit.level=等级
 
+key.monocle.desc=单片镜放大功能
+key.flaxbeard.category=Flaxbeard的蒸汽动力
+
 category.RecentCreations.name=近期作品
 
 category.Basics.name=基础
@@ -330,7 +333,6 @@ item.steamcraft:rocket.name=火箭
 item.steamcraft:rocket.name.2=普通火箭
 item.steamcraft:rocketConcussive.name=冲击火箭
 item.steamcraft:rocketMiner.name=采矿火箭
-entity.Steamcraft.Rocket.name=火箭
 
 item.steamcraft:musket.name=燧发步枪
 item.steamcraft:rocketLauncher.name=火箭筒
@@ -490,6 +492,8 @@ item.steamcraft:canner.name=装罐器
 item.steamcraft:pitonDeployer.name=岩钉安置器
 item.steamcraft:enderShroud.name=末影之幕
 item.steamcraft:brassKnuckles.name=黄铜指虎
+item.steamcraft:foggles.name=Foggles
+item.steamcraft:rainAway.name=Rain-Away
 
 item.steamcraft:canister.name=物品罐
 
@@ -500,6 +504,8 @@ item.steamcraft:steamedChicken.name=蒸鸡肉
 item.steamcraft:steamedBeef.name=蒸牛排
 item.steamcraft:steamedFish.name=蒸鱼
 item.steamcraft:steamedPorkchop.name=蒸猪排
+item.steamcraft:steamedImphide.name=蒸恶魔皮
+item.steamcraft:steamedSalmon.name=蒸鲑鱼
 
 item.toolHead.headAxeBrass.name=黄铜斧头
 item.toolHead.headPickaxeBrass.name=黄铜镐头
@@ -537,9 +543,7 @@ tile.steamcraft:hammer.name=蒸汽锤
 tile.steamcraft:itemMortar.name=物品迫击炮
 tile.steamcraft:pump.name=阿基米德螺旋泵
 tile.steamcraft:smasher.name=碎石机
-tile.steamcraft:dummy.name=活塞
 tile.steamcraft:thumper.name=重锤机
-tile.steamcraft:thumperDummy.name=重锤架
 tile.steamcraft:flashBoiler.name=快热锅炉组件
 tile.steamcraft:ruptureDisc.0.name=爆破片
 tile.steamcraft:ruptureDisc.1.name=破裂的爆破片
