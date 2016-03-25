@@ -7,7 +7,7 @@ Current translations are:
 <li>English - USA</li>
 <li>Brazilian - Portuguese</li>
 <li>Chinese - China</li>
-<li>Tradtional Chinese - China</li>
+<li>Traditional Chinese - China</li>
 <li>German - Germany</li>
 <li>Russia - Russian</li>
 </ul>
