@@ -471,6 +471,33 @@ item.steamcraft:swordBrass.name=Brass Sword
 item.steamcraft:steamDrill.name=Steam Drill
 item.steamcraft:steamAxe.name=Steam Saw
 item.steamcraft:steamShovel.name=Steam Shovel
+
+item.steamcraft:theVoid.name=The Void
+item.steamcraft:autosmelting.name=Exothermic Projector
+item.steamcraft:overclocker.name=Overclocker
+item.steamcraft:bigDrill.name=Big Drill
+item.steamcraft:battleDrill.name=Battle Drill
+item.steamcraft:stoneGrinder.name=Stone Grinder
+item.steamcraft:preciseCuttingHead.name=Precise Cutting Head
+item.steamcraft:thermalDrill.name=Thermal Drill
+item.steamcraft:drillFortune.name=Multiplicative Resonator
+item.steamcraft:chargePlacer.name=Calamity Injector
+item.steamcraft:drillHead.name=Steam Drill Head
+item.steamcraft:internalProcessor.name=Internal Processing Unit
+item.steamcraft:leafBlower.name=Leaf Blower
+item.steamcraft:feller.name=Timber Chain
+item.steamcraft:chainsaw.name=Chainsaw
+item.steamcraft:forestFire.name=Forest Fire
+item.steamcraft:cultivator.name=Cultivator
+item.steamcraft:rotaryBlades.name=Rotary Blades
+item.steamcraft:sifter.name=Sifter
+item.steamcraft:backhoe.name=Backhoe
+
+drill.gold=Gold
+drill.iron=Iron
+drill.diamond=Diamond
+drill.emerald=Emerald
+
 item.steamcraft:astrolabe.name=Astrolabe
 item.steamcraft:wrench.name=Pipe Wrench
 
