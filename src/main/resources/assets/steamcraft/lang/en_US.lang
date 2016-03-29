@@ -495,8 +495,13 @@ item.steamcraft:backhoe.name=Backhoe
 
 drill.gold=Gold
 drill.iron=Iron
+drill.brass=Brass
 drill.diamond=Diamond
 drill.emerald=Emerald
+
+item.steamcraft:steamcellEmpty.name=Empty Steam Cell
+item.steamcraft:stemcellFull.name=Full Steam Cell
+item.steamcraft:steamcellBauble.name=Steam Cell Filler
 
 item.steamcraft:astrolabe.name=Astrolabe
 item.steamcraft:wrench.name=Pipe Wrench
