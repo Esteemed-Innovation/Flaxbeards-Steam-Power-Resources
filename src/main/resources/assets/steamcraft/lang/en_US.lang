@@ -23,6 +23,8 @@ steamcraft.plate.sadist=Gain LP When Hurt
 steamcraft.plate.lead=Knockback Resistance
 steamcraft.plate.vibrant=Teleport When Hurt
 steamcraft.plate.enderium=Ender Aura
+steamcraft.plate.gilded=Projectile Protection and Extra Experience
+steamcraft.plate.zinc=Prevents Critical Damage
 
 steamcraft.color.black=Painted Black
 steamcraft.color.red=Painted Red
@@ -207,6 +209,10 @@ research.PlateVibrant.name=Vibrant Plate
 research.PlateVibrant.0=Although I'm still not entirely sure how it works, I've been able to harness the mysterious ender properties of vibrant alloy for use in my exosuit. When I reach low health, I have a chance to dodge damage and teleport away.
 research.PlateEnderium.name=Enderium Plate
 research.PlateEnderium.0=Plating my exosuit with this mysterious ender metal has allowed me to harness the teleporting power of endermen as a weapon. Enemies that attack me while I wear an enderium plated exosuit have a chance to be teleported away from me.
+research.PlateGilded.name=Gilded Iron Plate
+research.PlateGilded.0=Combining iron plates dipped in gold seems to combine the effects of these metals, increasing my protection from projectiles and the experience I gain; however these aspects are slightly weaker than the plates fully made of those metals.
+research.PlateZinc.name=Zinc Plate
+research.PlateZinc.0=Through studying the function of the rupture disc, I've learned how to make an armor plate which contains steam within it. When sufficiently damaged, this plate explodes off of my body more than negating the force of a potentially critical blow.
 
 research.ExoVanity.name=Vanity Slot
 research.ExoVanity.0=Not only is my exosuit a versatile framework, it is also a customizable one. Each exosuit piece includes a vanity slot that can be used to adjust the appearance of the exosuit to my liking, using various vanity upgrades.
@@ -255,6 +261,23 @@ research.Mask.name=Mask of Revealing
 research.Mask.0=Who says thaumaturgy can't mix with technology? Not I! I've developed a snazzy mask that gives my exosuit the same properties as the goggles of revealing.
 research.Canner.name=Canning Machine
 research.Canner.0=No longer will I have to manually apply canisters to my valuables, the canning machine will do it for me! Any ingots, ores or gems that I pick up while using this machine will be canned, provided I have the canisters.
+research.Hydrophobic.name=Hydrophobic Coatings
+research.Hydrophobic.0=The water repulsive properties of heated zinc and slime together will allow me to coast, as if slicing on ice, over the surface of water.
+research.Pyrophobic.name=Pyrophobic Coatings
+research.Pyrophobic.0=Heated copper and magma slime will allow me to coast over the surface of hot magma.
+research.AnchorHeels.name=Anchor Heels
+research.AnchorHeelsLead.0=Combining lead plates was a great idea for quick deep sea diving! Due to the weight of these plates, I can resist knockback and be weighed down at no steam cost!
+research.AnchorHeelsIron.0=Combining iron plates and an anvil was strange, but genius! Due to the weight of the anvil, I can resist knockback and be weighed down at no steam cost!
+research.PistonPush.name=Piston Push
+research.PistonPush.0=While not as satisfying as the Power Fist, this simple brass piston will allow me to push a single block away from me, as if I was a piston. This has proven to be surprisingly useful when searching for caverns.
+research.ReloadingHolsters.name=Reloading Holsters
+research.ReloadingHolsters.0=This new holster for my exosuit will reload my flintlock weapons when I holster them.
+research.FrequencyShifter.name=Frequency Shifter
+research.FrequencyShifter.0=This odd acoustic invention changes the frequencies that I am communicating with, allowing me to trade with cats and dogs, while preventing me from communicating with people who are not talking on the same frequency. I must be careful, because ocassionally the shifter will fumble and hurt the ears of the animals.
+research.DragonRoar.name=Dragon Roar
+research.DragonRoar.0=This threatening emergency steam vent will emit an extreme amount of very high pressure steam, causing an explosion large enough to damage many enemies.
+research.Rebreather.name=Rebreather
+research.Rebreather.0=Using some of my steam transport contraptions with a binding of leather, I am able to essentially breathe underwater.
 
 category.Gadgets.name=Gadgets
 research.SteamTools.name=Steam Tools
@@ -422,6 +445,7 @@ item.steamcraft:plate.8.name=Fiery Plate
 item.steamcraft:plate.9.name=Lead Plate
 item.steamcraft:plate.10.name=Vibrant Plate
 item.steamcraft:plate.11.name=Enderium Plate
+item.steamcraft:plate.12.name=Gilded Iron Plate
 
 item.steamcraft:exosuitPlate.0.name=Copper Exosuit Plate
 item.steamcraft:exosuitPlate.1.name=Zinc Exosuit Plate
@@ -437,6 +461,7 @@ item.steamcraft:exosuitPlate.10.name=Sadistic Exosuit Plate
 item.steamcraft:exosuitPlate.11.name=Lead Exosuit Plate
 item.steamcraft:exosuitPlate.12.name=Vibrant Exosuit Plate
 item.steamcraft:exosuitPlate.13.name=Enderium Exosuit Plate
+item.steamcraft:exosuitPlate.14.name=Gilded Iron Exosuit Plate
 
 item.steamcraft:reinforcedTank.name=Reinforced Exosuit Tank
 item.steamcraft:uberReinforcedTank.name=Heavily Reinforced Exosuit Tank
@@ -526,6 +551,14 @@ item.steamcraft:enderShroud.name=Ender Shroud
 item.steamcraft:brassKnuckles.name=Brass Knuckles
 item.steamcraft:foggles.name=Foggles
 item.steamcraft:rainAway.name=Rain-Away
+item.steamcraft:rebreather.name=Rebreather
+item.steamcraft:coatingsHydrophobic.name=Hydrophobic Coatings
+item.steamcraft:coatingsPyrophobic.name=Pyrophobic Coatings
+item.steamcraft:anchorHeels.name=Anchor Heels
+item.steamcraft:pistonPush.name=Piston Push
+item.steamcraft:reloadingHolsters.name=Reloading Holsters
+item.steamcraft:dragonRoar.name=Dragon Roar
+item.steamcraft:frequencyShifter.name=Frequency Shifter
 
 item.steamcraft:canister.name=Item Canister
 
