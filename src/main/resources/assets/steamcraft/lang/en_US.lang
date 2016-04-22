@@ -280,14 +280,15 @@ research.Rebreather.name=Rebreather
 research.Rebreather.0=Using some of my steam transport contraptions with a binding of leather, I am able to essentially breathe underwater.
 
 category.Gadgets.name=Gadgets
-research.SteamTools.name=Steam Tools
-research.SteamTools.0=Following the successes of my rock smasher and thumper, I ventured to make more portable versions of these rock-breaking tools. Finally, my work has come to fruition, in the form of the steam drill, saw, and shovel.
-research.SteamTools.1=These three tools can be filled with steam and do not break.<br>They must be spun up in order to be used effectively. Right clicking while holding a tool will spin it up, using steam, and speed up the tool. Unlike normal tools, mining itself does not use steam.
 research.Wrench.name=Pipe Wrench
 research.Wrench.0=The first tool I'll need when I'm tinkering with steam is a wrench, a gadget that has a multitude of uses.<br>Right clicking on pipes with the wrench will let me disconnect and reconnect them from other pipes and machines.
 research.Wrench.1=Shift-right clicking on a concealed pipe will reveal the pipe.<br>Using a wrench on most machines will allow me to rotate the machine.<br>Shift-right clicking on certain machines with the wrench will allow me to adjust the operating mode of the machine.
 research.Canister.name=Canister
 research.Canister.0=I've finally found a way to protect my dropped items from the elements: Canisters. Canisters can be crafted with any item, rendering them nearly invincible when dropped. Canistered items automatically activate when they leave my inventory.
+research.SteamCell.name=Steam Cells
+research.SteamCell.0=I can finally store small amounts of steam wherever I travel to! I am able to charge these cells in a standard filler, and take them where I go. Full cells can be used to charge my steam devices in my inventory, including exosuits and tools.
+research.SteamCellFiller.name=Steam Cell Filler
+research.SteamCellFiller.0=Steam cells are useful, but I hate having to manually inject the steam into my devices. Now, I don't have to. With the steam cell filler, my steam devices will be automatically filled with the steam cells I keep on my hotbar.
 research.TopHat.name=Top Hat
 research.TopHat.0=Topping my head with scraps of leather and metal is so... crude. I have created a masterpiece with some spare wool in the lab - a stylish top hat I can don on my head. It provides a small amount of protection and looks simply smashing!
 research.TopHatEmerald.name=Entrepreneur's Top Hat
@@ -341,6 +342,67 @@ research.EnhancementAmmo.name=Extended Magazine
 research.EnhancementAmmo.0=Extending the magazine used in my rocket launcher is a simple but effective enhancement that should give me significantly more burst firepower, albeit with a bit longer reload.
 research.EnhancementAirStrike.name=Air Strike Conversion Kit
 research.EnhancementAirStrike.0=I've developed a modification for my rocket launcher that I call the 'air strike'. This upgrade is much more effective at mid-air combat. While rocket jumping with the air strike, I will be able to fire rockets extremely rapidly.
+
+
+category.SteamTools.name=Steam Tools
+research.SteamTools.name=Steam Tools
+research.SteamTools.0=Following the successes of my rock smasher and thumper, I ventured to make more portable versions of these rock-breaking tools. Finally, my work has come to fruition, in the form of the steam drill, saw, and shovel.
+research.SteamTools.1=These three tools can be filled with steam and do not break.<br>They must be spun up in order to be used effectively. Right clicking while holding a tool will spin it up, using steam, and speed up the tool. Unlike normal tools, mining itself does not use steam.
+
+research.SteamDrillHead.name=Steam Drill Head Slot
+research.DrillHeads.name=Steam Drill Heads
+research.DrillHeads.0=The drill is a very useful device, but its weak iron head is always a fallback to using it. With these new heads, I am able to mine materials of varying hardness. I can make heads from %s.
+research.MultiplicativeResonator.name=Multiplicative Resonator
+research.MultiplicativeResonator.0=This strange device uses the power within the enchanted book to multiply many of the resources that I mine.
+research.BigDrill.name=Big Drill
+research.BigDrill.0=I found that when it comes to the drill, size matters. Replacing my drill head with a larger version allows me to mine larger areas.
+research.BattleDrill.name=Battle Drill
+research.BattleDrill.0=Though significantly weaker as a mining tool, the Battle Drill will allow me to charge at entities and attack them by crouching and jumping.
+research.PreciseCuttingHead.name=Precise Cutting Head
+research.PreciseCuttingHead.0=It's a long known fact that most blocks break easier into perfect cubes. This module allows my drill to perform this even on normally crumbling blocks.
+research.StoneGrinder.name=Stone Grinder
+research.StoneGrinder.0=Using rotary blades, this upgrade crushes the blocks I mine to occasionally yield metal nuggets.
+research.ThermalDrill.name=Thermal Drill
+research.ThermalDrill.0=The Thermal Drill will melt the stone I mine into a small amount of lava, which appears to vanish rather quickly, but does so extraordinarily quickly.
+research.CalamityInjector.name=Calamity Injector
+research.CalamityInjector.0=Though mildly dangerous, this upgrade will inject explosively high pressure steam into the rocks I mine.
+
+research.SteamDrillCore.name=Steam Drill Core Slot
+research.InternalProcessingUnit.name=Internal Processing Unit
+research.InternalProcessingUnit.0=I've made the Rock Smasher portable by pointing it at an immovable piece of obsidian in a box.
+
+research.SteamSawHead.name=Steam Saw Head Slot
+research.ForestFire.name=Forest Fire
+research.ForestFire.0=Not all science is for the betterment of the world. This upgrade will burn down a wide radius of trees around me when I use it.
+research.TimberChain.name=Timber Chain
+research.TimberChain.0=Not to be confused with the chainsaw, this new chain will allow me to chop down large trees from their stump.
+research.LeafBlower.name=Leaf Blower
+research.LeafBlower.0=Equipping my saw with a channeled burst of air from a turbine will allow me to blow leaves away.
+research.Chainsaw.name=Chainsaw
+research.Chainsaw.0=This simple device turns my once weak saw into the ultimate steam powered weapon. Unfortunately it appears to be less effective as a felling tool.
+
+research.SteamSawCore.name=Steam Saw Core Slot
+
+research.SteamShovelHead.name=Steam Shovel Head Slot
+research.Backhoe.name=Backhoe
+research.Backhoe.0=The backhoe allows me to dig large columns of land at a time.
+research.Cultivator.name=Cultivator
+research.Cultivator.0=Though not as powerful as a digging tool, the cultivator will allow me to till a large area of land.
+research.RotaryBlades.name=Rotary Blades
+research.RotaryBlades.0=Simply put, these new blades will let me dig larger portions.
+
+research.SteamShovelCore.name=Steam Shovel Core Slot
+research.Sifter.name=Sifter
+research.Sifter.0=Finding hidden goodies in dirt and sand is always a treat. With this upgrade, I am able to sift out the seeds, bones, flints, and gold in dug materials, at the cost of completely breaking apart the material.
+
+research.SteamUniversalCore.name=Universal Tool Core Slot
+research.Overclocker.name=Overclocker
+research.Overclocker.0=At a minor added steam cost, the overclocker will increase the rotational speed of my tools, allowing it to mine significantly quicker.
+research.ExothermicProjector.name=Exothermic Projector
+research.ExothermicProjector.0=This fancy projector emits a large amount of heat into the materials I mine, effectively smelting them.
+research.TheVoid.name=The Void
+research.TheVoid.0=With the powers of the end, I am able to transport materials I mine directly into boxes and other storage utilities.
+
 
 category.Automation.name=Automation
 research.BlockPlacer.name=Plonker
