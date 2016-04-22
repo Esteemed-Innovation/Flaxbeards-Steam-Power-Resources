@@ -4,6 +4,7 @@ steamcraft.book.by=by
 steamcraft.book.shapeless=Shapeless
 steamcraft.book.clickme=Click to go to crafting
 steamcraft.book.shiftright=Control click to go to information
+steamcraft.book.listjoiner=, 
 item.steamcraft:book.name=Esteemed Innovation
 potion.partialInvisible=Cloaking
 steamcraft.canned=Canistered
@@ -349,8 +350,8 @@ research.SteamTools.name=Steam Tools
 research.SteamTools.0=Following the successes of my rock smasher and thumper, I ventured to make more portable versions of these rock-breaking tools. Finally, my work has come to fruition, in the form of the steam drill, saw, and shovel.
 research.SteamTools.1=These three tools can be filled with steam and do not break.<br>They must be spun up in order to be used effectively. Right clicking while holding a tool will spin it up, using steam, and speed up the tool. Unlike normal tools, mining itself does not use steam.
 
-research.SteamDrillHead.name=Steam Drill Head Slot
-research.DrillHeads.name=Steam Drill Heads
+research.SteamDrillHead.name=Drill Head Slot
+research.DrillHeads.name=Drill Heads
 research.DrillHeads.0=The drill is a very useful device, but its weak iron head is always a fallback to using it. With these new heads, I am able to mine materials of varying hardness. I can make heads from %s.
 research.MultiplicativeResonator.name=Multiplicative Resonator
 research.MultiplicativeResonator.0=This strange device uses the power within the enchanted book to multiply many of the resources that I mine.
@@ -367,11 +368,11 @@ research.ThermalDrill.0=The Thermal Drill will melt the stone I mine into a smal
 research.CalamityInjector.name=Calamity Injector
 research.CalamityInjector.0=Though mildly dangerous, this upgrade will inject explosively high pressure steam into the rocks I mine.
 
-research.SteamDrillCore.name=Steam Drill Core Slot
+research.SteamDrillCore.name=Drill Core Slot
 research.InternalProcessingUnit.name=Internal Processing Unit
 research.InternalProcessingUnit.0=I've made the Rock Smasher portable by pointing it at an immovable piece of obsidian in a box.
 
-research.SteamSawHead.name=Steam Saw Head Slot
+research.SteamSawHead.name=Saw Head Slot
 research.ForestFire.name=Forest Fire
 research.ForestFire.0=Not all science is for the betterment of the world. This upgrade will burn down a wide radius of trees around me when I use it.
 research.TimberChain.name=Timber Chain
@@ -381,9 +382,9 @@ research.LeafBlower.0=Equipping my saw with a channeled burst of air from a turb
 research.Chainsaw.name=Chainsaw
 research.Chainsaw.0=This simple device turns my once weak saw into the ultimate steam powered weapon. Unfortunately it appears to be less effective as a felling tool.
 
-research.SteamSawCore.name=Steam Saw Core Slot
+research.SteamSawCore.name=Saw Core Slot
 
-research.SteamShovelHead.name=Steam Shovel Head Slot
+research.SteamShovelHead.name=Shovel Head Slot
 research.Backhoe.name=Backhoe
 research.Backhoe.0=The backhoe allows me to dig large columns of land at a time.
 research.Cultivator.name=Cultivator
@@ -391,7 +392,7 @@ research.Cultivator.0=Though not as powerful as a digging tool, the cultivator w
 research.RotaryBlades.name=Rotary Blades
 research.RotaryBlades.0=Simply put, these new blades will let me dig larger portions.
 
-research.SteamShovelCore.name=Steam Shovel Core Slot
+research.SteamShovelCore.name=Shovel Core Slot
 research.Sifter.name=Sifter
 research.Sifter.0=Finding hidden goodies in dirt and sand is always a treat. With this upgrade, I am able to sift out the seeds, bones, flints, and gold in dug materials, at the cost of completely breaking apart the material.
 
@@ -587,8 +588,8 @@ drill.diamond=Diamond
 drill.emerald=Emerald
 
 item.steamcraft:steamcellEmpty.name=Empty Steam Cell
-item.steamcraft:stemcellFull.name=Full Steam Cell
-item.steamcraft:steamcellBauble.name=Steam Cell Filler
+item.steamcraft:steamcellFull.name=Full Steam Cell
+item.steamcraft:steamcellFiller.name=Steam Cell Filler
 
 item.steamcraft:astrolabe.name=Astrolabe
 item.steamcraft:wrench.name=Pipe Wrench
