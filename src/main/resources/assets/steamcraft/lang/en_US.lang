@@ -402,7 +402,7 @@ research.Overclocker.0=At a minor added steam cost, the overclocker will increas
 research.ExothermicProjector.name=Exothermic Projector
 research.ExothermicProjector.0=This fancy projector emits a large amount of heat into the materials I mine, effectively smelting them.
 research.TheVoid.name=The Void
-research.TheVoid.0=With the powers of the end, I am able to transport materials I mine directly into boxes and other storage utilities.
+research.TheVoid.0=With the powers of the end, I am able to transport materials I mine directly into boxes and other storage utilities. Remember, the tool must be wound up for this upgrade to function.
 
 
 category.Automation.name=Automation
