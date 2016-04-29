@@ -561,7 +561,7 @@ item.steamcraft:steamAxe.name=Steam Saw
 item.steamcraft:steamShovel.name=Steam Shovel
 
 item.steamcraft:theVoid.name=The Void
-steamcraft.void.desc=The Void: Set to (%i, %i, %i)
+steamcraft.void.desc=The Void: Set to (%d, %d, %d)
 
 item.steamcraft:autosmelting.name=Exothermic Projector
 item.steamcraft:overclocker.name=Overclocker
